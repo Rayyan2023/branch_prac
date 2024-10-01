@@ -1,1 +1,1 @@
-branch version 1 of master and branch too
+branch version 1 of master and branch too patch

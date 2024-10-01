@@ -1,0 +1,9 @@
+diff --git a/1.txt b/1.txt
+index cfec955..3c2de56 100644
+--- a/1.txt
++++ b/1.txt
+@@ -1 +1 @@
+-branch version 1 of master and branch too
+\ No newline at end of file
++branch version 1 of master and branch too patch
+\ No newline at end of file
